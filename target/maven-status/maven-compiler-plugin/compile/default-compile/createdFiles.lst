@@ -1,6 +1,11 @@
+com\howtodoinjava\demo\ServletInitializer.class
 com\howtodoinjava\demo\exception\RecordNotFoundException.class
-com\howtodoinjava\demo\model\EmployeeEntity.class
-com\howtodoinjava\demo\DemoApplication.class
+com\howtodoinjava\demo\model\Project.class
+com\howtodoinjava\demo\repository\ManagerRepository.class
 com\howtodoinjava\demo\service\EmployeeService.class
-com\howtodoinjava\demo\repository\EmployeeRepository.class
-com\howtodoinjava\demo\web\EmployeeController.class
+com\howtodoinjava\demo\model\Manager.class
+com\howtodoinjava\demo\web\ProjectController.class
+com\howtodoinjava\demo\repository\ProjectRepository.class
+com\howtodoinjava\demo\DemoApplication.class
+com\howtodoinjava\demo\service\ManagerService.class
+com\howtodoinjava\demo\web\ManagerController.class
